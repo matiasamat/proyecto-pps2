@@ -1,1 +1,1 @@
-# proyecto-pps2
+# proyecto-poo2
